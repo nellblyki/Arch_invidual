@@ -1,0 +1,13 @@
+{
+  "name": "oop-typescript-example",
+  "version": "1.0.0",
+  "description": "Simple OOP example in TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
